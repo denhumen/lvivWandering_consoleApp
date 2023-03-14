@@ -36,3 +36,7 @@ The objective of the game is to discover all of Lviv's hidden treasures.
 ## Credits
 
 This game was created by Denis Humeniuk.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
